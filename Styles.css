@@ -23,7 +23,7 @@ body{
 	position: relative;
 }
 #nav ul li{
-	display: inline-block;
+	display: inline-block;lock
 }
 #nav ul li:hover{
 	background-color:#000000;
